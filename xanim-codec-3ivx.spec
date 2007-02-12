@@ -1,5 +1,5 @@
 Summary:	3ivX codec for XAnim
-Summary(pl):	Kodek 3ivX dla XAnima
+Summary(pl.UTF-8):   Kodek 3ivX dla XAnima
 Name:		xanim-codec-3ivx
 Version:	3.5
 Release:	1
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 3ivX codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka 3ivX dla XAnima.
 
 %prep
