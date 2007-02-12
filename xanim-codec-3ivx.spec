@@ -1,5 +1,5 @@
 Summary:	3ivX codec for XAnim
-Summary(pl.UTF-8):   Kodek 3ivX dla XAnima
+Summary(pl.UTF-8):	Kodek 3ivX dla XAnima
 Name:		xanim-codec-3ivx
 Version:	3.5
 Release:	1
